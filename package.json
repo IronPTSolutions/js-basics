@@ -6,5 +6,8 @@
     "type": "git",
     "url": "https://github.com/ironptsolutions/js-basics.git"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "objects": "node objects.js"
+  }
 }
