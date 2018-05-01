@@ -1,0 +1,10 @@
+{
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "Basic JavaScript concepts.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ironptsolutions/js-basics.git"
+  },
+  "license": "ISC"
+}
