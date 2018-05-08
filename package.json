@@ -9,6 +9,7 @@
   "license": "ISC",
   "scripts": {
     "objects": "node objects.js",
-    "arrays-fun": "node arrays-fun.js"
+    "arrays-fun": "node arrays-fun.js",
+    "prototypes-1": "node prototypes-1.js"
   }
 }
